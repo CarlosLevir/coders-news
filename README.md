@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="">View Demo</a>
+  <a href="https://coders-news-eight.vercel.app/">View Demo</a>
 </p>
 
 <p align="center">
